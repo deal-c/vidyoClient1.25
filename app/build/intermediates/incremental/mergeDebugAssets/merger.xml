@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="3.3.36"><source path="F:\vidyoClient\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\assets"/></dataSet><dataSet config="main"><source path="F:\vidyoClient\app\src\main\assets"/><source path="F:\vidyoClient\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\vidyoClient\app\src\debug\assets"/></dataSet></merger>

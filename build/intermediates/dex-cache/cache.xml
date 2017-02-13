@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\vidyoClient\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.36_c7927af8439b9d7927db5eb7331f1bf334f89940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\vidyoClient\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_0654715d0ffb1eaa4e660ace1746803428abbe5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\vidyoClient\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_f13efa52c4b92f5f43c38aa23ec47206aed81063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidstudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_482d364621406013739c272c585d1edb8d5da646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\vidyoClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="F:\vidyoClient\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_24a47931ea90586a3f750685f3973ad574a2588a.jar" />
+    </item>
+
+</items>

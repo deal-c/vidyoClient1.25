@@ -1,0 +1,115 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (classFileParser.cpp:3494), pid=1884, tid=8072
+#  Error: ShouldNotReachHere()
+#
+# JRE version: 6.0_38-b04
+# Java VM: Java HotSpot(TM) Client VM (20.13-b02 mixed mode windows-x86 )
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0189a000):  JavaThread "Unknown thread" [_thread_in_vm, id=8072, stack(0x00150000,0x001a0000)]
+
+Stack: [0x00150000,0x001a0000],  sp=0x0019f86c,  free space=318k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x1348ea]
+V  [jvm.dll+0x12f3db]
+V  [jvm.dll+0x1676e]
+V  [jvm.dll+0x17faf]
+V  [jvm.dll+0x27565]
+V  [jvm.dll+0x27da6]
+V  [jvm.dll+0x28155]
+V  [jvm.dll+0x281e9]
+V  [jvm.dll+0x282ac]
+V  [jvm.dll+0x2832a]
+V  [jvm.dll+0x2840d]
+V  [jvm.dll+0x286d9]
+V  [jvm.dll+0x6cdb3]
+V  [jvm.dll+0x6d18c]
+V  [jvm.dll+0xfa77c]
+V  [jvm.dll+0x1190cb]
+V  [jvm.dll+0x9f4c0]
+C  [javaw.exe+0x1657]
+C  [javaw.exe+0x1e2c]
+C  [javaw.exe+0x8614]
+C  [kernel32.dll+0x4ef1c]  BaseThreadInitThunk+0x12
+C  [ntdll.dll+0x6367a]  RtlInitializeExceptionChain+0xef
+C  [ntdll.dll+0x6364d]  RtlInitializeExceptionChain+0xc2
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0189a000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=8072, stack(0x00150000,0x001a0000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Dynamic libraries:
+0x00400000 - 0x00425000 	C:\worktools\java\bin\javaw.exe
+0x77200000 - 0x77342000 	C:\Windows\SYSTEM32\ntdll.dll
+0x75560000 - 0x75635000 	C:\Windows\system32\kernel32.dll
+0x75070000 - 0x750bb000 	C:\Windows\system32\KERNELBASE.dll
+0x76ef0000 - 0x76f91000 	C:\Windows\system32\ADVAPI32.dll
+0x75b00000 - 0x75bac000 	C:\Windows\system32\msvcrt.dll
+0x76e70000 - 0x76e89000 	C:\Windows\SYSTEM32\sechost.dll
+0x76dc0000 - 0x76e62000 	C:\Windows\system32\RPCRT4.dll
+0x77370000 - 0x77439000 	C:\Windows\system32\USER32.dll
+0x75510000 - 0x7555e000 	C:\Windows\system32\GDI32.dll
+0x77440000 - 0x7744a000 	C:\Windows\system32\LPK.dll
+0x75a10000 - 0x75aad000 	C:\Windows\system32\USP10.dll
+0x75ab0000 - 0x75acf000 	C:\Windows\system32\IMM32.DLL
+0x75ea0000 - 0x75f6d000 	C:\Windows\system32\MSCTF.dll
+0x74d90000 - 0x74db9000 	C:\Windows\system32\nvinit.dll
+0x0f000000 - 0x0f006000 	C:\Program Files\NVIDIA Corporation\CoProcManager\detoured.dll
+0x721a0000 - 0x721cc000 	C:\Program Files\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll
+0x75360000 - 0x754fd000 	C:\Windows\system32\SETUPAPI.dll
+0x750e0000 - 0x75107000 	C:\Windows\system32\CFGMGR32.dll
+0x76ca0000 - 0x76d31000 	C:\Windows\system32\OLEAUT32.dll
+0x75d40000 - 0x75e9c000 	C:\Windows\system32\ole32.dll
+0x74e40000 - 0x74e52000 	C:\Windows\system32\DEVOBJ.dll
+0x72180000 - 0x721a0000 	C:\Program Files\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll
+0x7c340000 - 0x7c396000 	C:\worktools\java\jre\bin\msvcr71.dll
+0x6d8c0000 - 0x6db70000 	C:\worktools\java\jre\bin\client\jvm.dll
+0x751a0000 - 0x751d2000 	C:\Windows\system32\WINMM.dll
+0x74cc0000 - 0x74d0c000 	C:\Windows\system32\apphelp.dll
+0x6d870000 - 0x6d87c000 	C:\worktools\java\jre\bin\verify.dll
+0x6d3d0000 - 0x6d3ef000 	C:\worktools\java\jre\bin\java.dll
+0x6d8b0000 - 0x6d8bf000 	C:\worktools\java\jre\bin\zip.dll
+0x75500000 - 0x75505000 	C:\Windows\system32\PSAPI.DLL
+
+VM Arguments:
+jvm_args: -Dfile.encoding=UTF-8 -Xbootclasspath:D:\work\android\android-sdk\platforms\android-19\android.jar 
+java_command: com.vidyo.utils.Contants
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\worktools\jdk1.7.0_79
+PATH=D:\oracle;C:\Program Files\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\OpenVPN\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GtkSharp\2.12\bin;C:\Program Files\Calibre2\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\worktools\Android\android-ndk-r8e;C:\worktools\Android\android-sdk\platform-tools;C:\Program Files\PremiumSoft\Navicat Premium;C:\worktools\maven\apache-maven-3.2.2\bin;D:\Program Files\MySQLServer\bin
+USERNAME=kevin
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 60 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, ht
+
+Memory: 4k page, physical 2879956k(207160k free), swap 9952500k(6095064k free)
+
+vm_info: Java HotSpot(TM) Client VM (20.13-b02) for windows-x86 JRE (1.6.0_38-ea-b04), built on Oct 31 2012 01:45:33 by "java_re" with MS VC++ 7.1 (VS2003)
+
+time: Wed Nov 30 18:26:21 2016
+elapsed time: 0 seconds
+

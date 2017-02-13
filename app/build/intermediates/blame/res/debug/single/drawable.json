@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_normal_white.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\edittext_normal_white.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addpeople.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\addpeople.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\cc1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b2.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b2.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\create.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\create.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jingyin_selector_image.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\jingyin_selector_image.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shadow.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\bg_shadow.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b01.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b01.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_image4.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\tab_selector_image4.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backconf.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\backconf.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_image2.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\tab_selector_image2.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b02.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b02.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b04.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b04.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_main_tab_selector.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\btn_main_tab_selector.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bnt_custom_gray.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\bnt_custom_gray.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bnt_custom_green.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\bnt_custom_green.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_normal.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\edittext_normal.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc2.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\cc2.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desk.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\desk.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edit_backgroud.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\selector_edit_backgroud.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_title_back.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\reg_title_back.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_psd.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\ic_psd.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b03.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b03.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc4.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\cc4.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flash.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\flash.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_focus.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\edittext_focus.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ddrom.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\ddrom.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_button.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\green_button.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b4.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b4.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guanbishipin_selector_image.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\guanbishipin_selector_image.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_image1.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\tab_selector_image1.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc3.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\cc3.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bnt_custom_blue.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\bnt_custom_blue.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_text.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\tab_selector_text.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_image3.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\tab_selector_image3.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yangshengqi_selector_image.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\yangshengqi_selector_image.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b3.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\b3.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable\\ic_user.png"
+    }
+]

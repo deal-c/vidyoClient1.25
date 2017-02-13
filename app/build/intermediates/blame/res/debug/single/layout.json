@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selectroomtype.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\dialog_selectroomtype.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\create.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calling.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_calling.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_flash.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_activty2.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_test_activty2.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mylogin.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_mylogin.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_rom_msg.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_modify_rom_msg.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\callrow_include.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\callrow_include.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_conference_msg.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\dialog_conference_msg.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\joinconference.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\joinconference.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_include.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\header_include.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\chat_message.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_init.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_test_init.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conference.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\conference.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_layout.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\fragment2_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1_layout.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\fragment1_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_main.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_call_main.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_demo.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_main_demo.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_consult.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_consult.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_layout.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\layout\\page_layout.xml"
+    }
+]

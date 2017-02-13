@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_demo.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\menu\\main_demo.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calling.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\menu\\calling.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_main.xml",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\menu\\call_main.xml"
+    }
+]

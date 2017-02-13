@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\vidyoClient\app\src\main\jniLibs"><file name="armeabi-v7a/libndkVidyoSample.so" path="F:\vidyoClient\app\src\main\jniLibs\armeabi-v7a\libndkVidyoSample.so"/><file name="armeabi-v7a/libVidyoClientApp.so" path="F:\vidyoClient\app\src\main\jniLibs\armeabi-v7a\libVidyoClientApp.so"/></source></dataSet><dataSet config="debug"><source path="F:\vidyoClient\app\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dianshang_main.jpg",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\dianshang_main.jpg"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rukoubg.jpg",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\rukoubg.jpg"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baoxian_main.jpg",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\baoxian_main.jpg"
+    }
+]

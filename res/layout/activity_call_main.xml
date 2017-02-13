@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:background="@color/white"
+    tools:context=".CallMainActivity" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        android:gravity="center_horizontal|top"
+        android:background="@drawable/souyebg"
+        android:paddingTop="40dp"
+        android:orientation="vertical" >
+        <ImageView 
+        android:layout_width="100dp"
+ 	    android:layout_height="100dp"
+ 	    android:id="@+id/imgface_my"
+ 	    android:src="@drawable/touxiang1"
+ 	    />
+        
+ 		<TextView 
+	 		android:id="@+id/tx_nihao"
+	 		android:layout_width="fill_parent"
+	 	    android:layout_height="wrap_content"
+	 	 	android:textAlignment="center"
+	 		android:textColor="#000000"
+	 		android:gravity="center_horizontal"
+	 		android:text="kevin,您好"
+	 		android:textSize="16dp"
+	 		android:layout_marginBottom="5dp"
+ 		/>
+ 		
+ 		<LinearLayout
+ 		 android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+		android:orientation="horizontal">
+ 	    <Button
+ 	    	android:id="@+id/bnt_callservice"
+		    android:layout_marginTop="0dp"
+		    android:layout_width="0dp"
+		    android:layout_height="45dp"
+		    android:text="呼叫客服中心"
+		    android:layout_weight="1"
+		    android:textSize="16dp"
+		    android:textColor="@color/white"
+		    android:paddingLeft="5dp"
+		    android:paddingTop="5dp"
+		    android:paddingRight="5dp"
+		    android:paddingBottom="5dp"
+		    android:background="@drawable/bnt_custom_green"
+		    android:layout_marginRight="10dp"
+		    android:drawableLeft="@drawable/kedu">
+		    
+		  </Button>
+		  
+ 	    	<Button 
+ 	    	       android:id="@+id/bnt_callmanager"
+		    android:layout_marginTop="0dp"
+		    android:layout_width="0dp"
+		    android:layout_height="45dp"
+		    android:text="呼叫客服经理"
+		    android:layout_weight="1"
+		    android:textSize="16dp"
+		    android:textColor="@color/white"
+		    android:paddingLeft="5dp"
+		    android:paddingTop="5dp"
+		    android:paddingRight="5dp"
+		    android:paddingBottom="5dp"
+		    android:background="@drawable/bnt_custom_blue"
+		    android:drawableLeft="@drawable/kehujingli">
+		  </Button>
+ 	   </LinearLayout>  
+ 	   
+ 		
+    </LinearLayout>
+
+   	<ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#f1f1f1"
+    >
+	 	<LinearLayout
+	 	 android:id="@+id/view_notifylist"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+      	    
+       		
+   	    </LinearLayout>
+	     
+   	    
+</ScrollView>
+</LinearLayout>

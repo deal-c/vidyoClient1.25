@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mima.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\mima.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vidyo.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\vidyo.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanbishipin_1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\guanbishipin_1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guaduan.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\guaduan.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_disabled.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\touxiang1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\touxiang1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jingying.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\jingying.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\canjia.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\canjia.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\touxiang2.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\touxiang2.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yangshenqi_1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\yangshenqi_1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kedu.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\kedu.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\touxiangb.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\touxiangb.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jujue.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\jujue.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\denglubg.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\denglubg.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhanghao.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\zhanghao.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanbishipin.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\guanbishipin.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yangshenqi.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\yangshenqi.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_normal.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vidyologo.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\vidyologo.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gengduo.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\gengduo.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jietongbg.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\jietongbg.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jiesou.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\jiesou.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kehujingli.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\kehujingli.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kefurukou.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\kefurukou.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jingying_1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\jingying_1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xian.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\xian.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\touxiang3.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\touxiang3.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\quanping.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\quanping.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back1.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\back1.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wenbenliaotian.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\wenbenliaotian.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\souyebg.png",
+        "source": "F:\\vidyoClient\\app\\src\\main\\res\\drawable-hdpi\\souyebg.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\vidyoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "F:\\vidyoClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    }
+]
